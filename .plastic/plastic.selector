@@ -1,0 +1,4 @@
+repository "scenifyxr/scenifyxr-pilot-01@1375659393703@cloud"
+  path "/"
+    br "/main"
+    co "/main"

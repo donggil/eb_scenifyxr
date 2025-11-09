@@ -1,0 +1,36 @@
+# Unity
+/Library/
+/Temp/
+/obj/
+/Build/
+/Builds/
+/Logs/
+/UserSettings/
+
+# Unity Package Manager
+/Packages/manifest.json
+/Packages/packages-lock.json
+
+# Visual Studio / Rider
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# ScenifyXR Specific
+/Assets/ScenifyXR/GeneratedScenes/*
+!/Assets/ScenifyXR/GeneratedScenes/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.env
