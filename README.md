@@ -6,7 +6,7 @@ AI-powered, **procedural XR scene & asset generator** from natural language — 
 
 - **Input**: `"Create a hospital server room with 2 Cisco 9300 switches and a red-blinking UPS"`
 - **Output**: Fully interactive Quest 3 scene in **<60 seconds**
-- Built with **Unity 2023.2 LTS + XR Interaction Toolkit + GPT-4o**
+- Built with **Unity 6.2 + XR Interaction Toolkit + GPT-4o**
 
 ---
 
