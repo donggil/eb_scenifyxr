@@ -6,6 +6,9 @@
 /Builds/
 /Logs/
 /UserSettings/
+/ProjectSettings/
+/.vscode/
+/.plastic/
 
 # Unity Package Manager
 /Packages/manifest.json
